@@ -1,4 +1,4 @@
-### Olá, eu sou o Vitor! 👋
+ Olá, eu sou o Vitor! 👋
 
 Estou a iniciar a minha jornada no mundo da programação e muito empolgado com cada nova aprendizagem! 🚀
 
