@@ -1,18 +1,31 @@
- Olá, eu sou o Vitor! 👋
+# Olá, eu sou o Vitor Fernandes! 👋
 
-Estou a iniciar a minha jornada no mundo da programação e muito empolgado com cada nova aprendizagem! 🚀
+## 🚀 Engenheiro de Software em Formação | Especialista em Automação Python
 
-🌱 Atualmente estou focado em aprender **Python** e a explorar como construir pequenos projetos práticos.
-
-💬 O meu primeiro projeto público é um [Gerenciador de Playlist de Músicas](https://github.com/vitorf-vcm2025/meu-gerenciador-musicas) simples, que me ajudou a entender conceitos básicos de listas, ficheiros e interação com o utilizador em Python.
-
-🎯 Tenho interesse em continuar a evoluir os meus conhecimentos em desenvolvimento de software e, no futuro, explorar a criação de aplicações que possam ser úteis para outras pessoas.
-
-📫 Como entrar em contacto:
-<!-- Se você tiver um LinkedIn ou outra forma profissional de contacto, pode adicionar aqui. Exemplo: -->
-<!-- - LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seu-perfil) -->
-<!-- Se não tiver, pode remover esta seção ou apenas deixar um comentário como este -->
-
-✨ Uma frase que me inspira: "A jornada de mil milhas começa com um único passo." - Lao Tsé
+Atualmente cursando **Engenharia de Software** e **IA & Machine Learning** na **UniCesumar**, foco meu trabalho no desenvolvimento de soluções inteligentes que otimizam processos e geram resultados reais.
 
 ---
+
+### 🛠️ Minhas Tecnologias
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 No que estou focado hoje:
+
+- **Automação de CRM**: Desenvolvimento de bots e arquitetura de integração para plataformas como **Bitrix24**.
+- **Sistemas de Gestão**: Criação de aplicações escaláveis com foco em segurança e UUID.
+- **Freelance**: Soluções personalizadas em Python para otimização de negócios e CRMs.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor_lfernandes@hotmail.com)
+
+---
+
+_"A ética e a transparência são os pilares de cada linha de código que escrevo."_
