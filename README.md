@@ -14,7 +14,7 @@ Atualmente cursando **Engenharia de Software** e **IA & Machine Learning** na **
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 No que estou focado hoje:
+### 📈 Sempre com foco em novas tecnologias, hoje com foco em:
 
 - **Automação de CRM**: Desenvolvimento de bots e arquitetura de integração para plataformas como **Bitrix24**.
 - **Sistemas de Gestão**: Criação de aplicações escaláveis com foco em segurança e UUID.
